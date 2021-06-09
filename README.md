@@ -1,5 +1,12 @@
 # trello-cards
 
+The repository is currently hosted at [samriddhi25/trello-cards](https://samriddhi25.github.io/trello-cards/).
+
+## Interface 
+
+![](Screenshot.png)
+
+
 ## Build Setup
 
 ```bash
